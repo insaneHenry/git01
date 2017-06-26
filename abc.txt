@@ -11,3 +11,4 @@
 github 1.0
 github 1.1
 local 1.0
+github 1.2
